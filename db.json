@@ -5,7 +5,100 @@
       "nome": "X - A Marca da Morte",
       "ano": "2022",
       "descrição": "Em 1979, um grupo de jovens cineastas se propôs a fazer um filme adulto na zona rural do Texas, mas quando seus solitários e idosos anfitriões os pegam em flagrante, o elenco se vê lutando por suas vidas.",
-      "duração": "1h 45min"
+      "duração": "1h 45min",
+      "poster": "https://s.movieinsider.com/images/p/600//622125_m1642174689.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Pânico",
+      "ano": "1996",
+      "descrição": "Um ano após o assassinato de sua mãe, uma adolescente é aterrorizada por um novo assassino que a escolheu como alvo e usa filmes de terror como parte de seu jogo mortal.",
+      "duração": "1h 51min",
+      "poster": "https://www.cafecomfilme.com.br/media/k2/items/cache/36ed29ba3efd281ca96d718c1541a169_XL.jpg?t=20190103_215034"
+    },
+    {
+      "id": "3",
+      "nome": "O Bebê de Rosemary",
+      "ano": "1968",
+      "descrição": "Um jovem casal se muda para um apartamento em uma área tranquila. Quando a esposa está misteriosamente grávida, a paranóia pela segurança do feto começa a controlar sua vida.",
+      "duração": "2h 17min",
+      "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/94/42/79/20328732.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Suspíria: A Dança do Medo",
+      "ano": "2018",
+      "descrição": "Uma escuridão gira no centro de uma companhia de dança de renome mundial, e englobará o diretor artístico, uma ambiciosa jovem bailarina e uma psicoterapeuta moribunda. Alguns vão sucumbir ao pesadelo. Outros finalmente vão acordar.",
+      "duração": "2h 32min",
+      "poster": "https://i.pinimg.com/originals/86/04/d8/8604d8526e26bc1cc62d9ac90fe4a58f.jpg"
+    }
+  ],
+  "ação": [
+    {
+      "id": "1",
+      "nome": "Matrix",
+      "ano": "1999",
+      "descrição": "Um hacker aprende com os misteriosos rebeldes sobre a verdadeira natureza de sua realidade e seu papel na guerra contra seus controladores.",
+      "duração": "2h 16min",
+      "poster": "https://i.pinimg.com/736x/99/fd/e9/99fde915229c4a3d74bea5fd782d4972.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Tudo em Todo Lugar ao Mesmo Tempo",
+      "ano": "2022",
+      "descrição": "Uma idosa imigrante chinesa se envolve em uma aventura louca, onde só ela pode salvar o mundo explorando outros universos que se conectam com as vidas que ela poderia ter levado.",
+      "duração": "2h 19min",
+      "poster": "https://br.web.img2.acsta.net/pictures/22/05/16/17/59/5165498.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Blade Runner 2049",
+      "ano": "2017",
+      "descrição": "A descoberta de um segredo enterrado há muito tempo leva a um jovem a encontrar o antigo corredor de lâminas Rick Deckard, que está desaparecido há trinta anos.",
+      "duração": "2h 44min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Mad Max: Estrada da Fúria",
+      "ano": "2015",
+      "descrição": "Num mundo apocalíptico, uma mulher se rebela contra um tirano ao procurar uma nova casa para um grupo de mulheres prisioneiras com a ajuda dum homem chamado Max.",
+      "duração": "2h",
+      "poster": "https://c4.wallpaperflare.com/wallpaper/768/781/199/mad-max-fury-road-movies-car-mad-max-wallpaper-preview.jpg"
+    }
+  ],
+  "drama": [
+    {
+      "id": "1",
+      "nome": "La La Land",
+      "ano": "2016",
+      "descrição": "Um pianista e uma atora frustrada se apaixonam enquanto tentam trabalhar por seus futuros.",
+      "duração": "2h 8min",
+      "poster": "https://static01.nyt.com/images/2017/02/26/arts/26OSCARSPOSTER4/26OSCARSPOSTER4-jumbo.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Closer: Perto Demais",
+      "ano": "2004",
+      "descrição": "As relações de dois casais tornam-se complicadas e enganosas quando o homem de um dos casais cohnece a mulher do outro.",
+      "duração": "1h 44min",
+      "poster": "https://i.pinimg.com/originals/88/87/39/8887390bd7125f8d0e06b4ea078b7b25.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Incêndios",
+      "ano": "2010",
+      "descrição": "Os gêmeos viajam para o Oriente Médio para descobrir sua história familiar e cumprir os últimos desejos de sua mãe.",
+      "duração": "2h 11min",
+      "poster": "https://i.pinimg.com/originals/22/1a/3a/221a3a0945eb4f90e19bc8018f072d1f.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Birdman ou (A Inesperada Virtude da Ignorância)",
+      "ano": "2014",
+      "descrição": "Um ator fracassado tenta reviver sua carreira com uma produçao de Broadway que escreve, dirige e protagoniza.",
+      "duração": "1h 59min",
+      "poster": "https://i.pinimg.com/originals/04/dc/39/04dc39eb382986c6bdc1cc19e81837e9.jpg"
     }
   ]
 }
