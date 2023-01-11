@@ -8,29 +8,18 @@ Projeto individual do Módulo 3 do curso de Desenvolvimento Web Full-Stack da Re
 
 # Acesso ao projeto
 
-Você pode interagir com a API [aqui](https://api-cinema-cy5n.onrender.com/)
+Você pode interagir com a API [aqui](https://json-server-cinema.onrender.com/)
 
 # Instruções
 ### Exemplos de usabilidade: 
 
-- GET 
-  - `https://api-cinema-cy5n.onrender.com/terror` 
-  - `https://api-cinema-cy5n.onrender.com/acao`
-  - `https://api-cinema-cy5n.onrender.com/drama`
-- POST 
-  - `https://api-cinema-cy5n.onrender.com/terror` 
-  - `https://api-cinema-cy5n.onrender.com/acao`
-  - `https://api-cinema-cy5n.onrender.com/drama`
-- PUT 
-  - `https://api-cinema-cy5n.onrender.com/terror` 
-  - `https://api-cinema-cy5n.onrender.com/acao`
-  - `https://api-cinema-cy5n.onrender.com/drama`
-- DELETE 
-  - `https://api-cinema-cy5n.onrender.com/terror` 
-  - `https://api-cinema-cy5n.onrender.com/acao`
-  - `https://api-cinema-cy5n.onrender.com/drama`
-
-
+> GET / POST / PUT / PATCH / DELETE
+  - `https://json-server-cinema.onrender.com/terror` 
+  - `https://json-server-cinema.onrender.com/acao`
+  - `https://json-server-cinema.onrender.com/drama`
+  - `https://json-server-cinema.onrender.com/comedia`
+  - `https://json-server-cinema.onrender.com/romance`
+  
 # Tecnologias utilizadas 👨🏻‍💻
 
 - `JavaScript`
